@@ -86,7 +86,7 @@
 }
 
 .logo_place_header:hover {
-  background-image: url(../images/logo_place_header_hover.svg)
+  background-image: url(../images/logo_place_header_hover.svg);
 }
 
 .logo_place_footer {
@@ -95,7 +95,7 @@
 }
 
 .logo_place_footer:hover {
-  background-image: url(../images/logo_place_footer_hover.svg)
+  background-image: url(../images/logo_place_footer_hover.svg);
 }
 
 .description {
@@ -222,7 +222,7 @@
   background-image: url('../images/feynman.png');
   background-position: left bottom;
   background-size: 867px 637px;
-  background-repeat: no-repeat; /* ???? */
+  background-repeat: no-repeat;
 }
 
 .feynman__title {
