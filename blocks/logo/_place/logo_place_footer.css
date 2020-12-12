@@ -1,9 +1,10 @@
 .logo_place_footer {
   height: 35px;
   background-image: url(../../../images/logo_place_footer.svg);
-  transition: background-image 0.2s ease-in;
+/*   transition: background-image 0.2s ease-in; */
 }
 
-.logo_place_footer:hover {
+/* .logo_place_footer:hover {
   background-image: url(../../../images/logo_place_footer_hover.svg);
 }
+ */
